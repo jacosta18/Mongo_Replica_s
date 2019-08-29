@@ -1,0 +1,7 @@
+DEPENDENCIES
+  mongodb
+    git: https://github.com/DanielFlynn/ChefMongoDB.git
+    revision: 1226049d0017d549943d3a47f29c514f554eb9ce
+
+GRAPH
+  mongodb (0.1.0)
